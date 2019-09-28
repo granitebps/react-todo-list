@@ -112,6 +112,14 @@ export default class App extends Component {
               handleDelete={this.handleDelete}
               handleEdit={this.handleEdit}
             />
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://github.com/granitebps/react-todo-list"
+              className="btn btn-secondary btn-block"
+            >
+              Github Page
+            </a>
           </div>
         </div>
       </div>
